@@ -1,18 +1,10 @@
-# I'm trying this for the 3rd time
-
-I now have an enterprise account. I hope GitHub will allow me to stay up this time. Please consider donating since enterprise accounts are not free.
-
 # Free high quality TV Logos for dark backgrounds
-
-Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr.
 
 Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
 
 ## 💛 Support me to continue this project
 
 If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the GitHub takes quite the time and I would like to put in more work on this project so any donation helps!
-
-[<img src="misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 
 ## 📝 Logo request
 
@@ -107,10 +99,6 @@ The logos are adjusted to work on a dark background. Some of them are not suitab
 
 ## I will regularly add new channel logos, you can also message me and request logos
 
-If you want to support me continuing the work, you can donate by clicking the donate button: Donaters can jump in line and request missing logos for me to do as soon as I can.
-
-[<img src="misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
-
 * Donators get a channel logo request. I also take requests for custom logos or logos for a light background.
 
 * The goal of this project is to give people better access to logos in good quality and to meet the design requirements of the designers/owners of the logos and supply the increasing demand for better quality experience.
@@ -134,8 +122,6 @@ If you want to support me continuing the work, you can donate by clicking the do
 * If a channel changes its logo or rebrands, I will replace the original logo, if you are using direct link then the logo will update for you automatically. It can take some time for some devices/software to update the logo, you might need to restart/clear cache.
 
 * If you would like to be able to link the logos to a service you provide, for example a website/service/app then please contact me first.
-
-* Did you discover a mistake? Or is something not like it should be? Then please let me know by sending me a message/email at tapio.sinnertwin(at)gmail.com
 
 ## Naming convention
 
